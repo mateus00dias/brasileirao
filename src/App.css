@@ -121,26 +121,4 @@ td:last-child {
   border-left: 2px solid #e74c3c;
 }
 
-@media (max-width: 768px) {
-  header {
-    padding: 10px;
-    width: 100%;
-  }
 
-  table {
-    font-size: 14px;
-  }
-
-  td,
-  th {
-    padding: 2px;
-  }
-
-  .escudo {
-    width: 40px;
-  }
-
-  td:first-child {
-    padding-left: 10px;
-  }
-}
